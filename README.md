@@ -62,22 +62,22 @@ Random Forest with Tfidif
 World Cloud of Most Common word in Both Subreddit
 
 <img
-     src = "https://git.generalassemb.ly/tw1270/Submissions/blob/master/projects/project_3/images/wordcloud.jpg" style = '' style="float: left; margin: 20px; height: 55px">
+     src = "https://github.com/tw1270/Web-APIs-and-Predicting-Subreddit/blob/main/images/wordcloud.jpg" style = '' style="float: left; margin: 20px; height: 55px">
 
 Confusion Matrix of Logistic Regression
 
 <img
-     src = "https://git.generalassemb.ly/tw1270/Submissions/blob/master/projects/project_3/images/confusion_matrix.png" style = '' style="float: left; margin: 20px; height: 55px">
+     src = "https://github.com/tw1270/Web-APIs-and-Predicting-Subreddit/blob/main/images/confusion_matrix.png" style = '' style="float: left; margin: 20px; height: 55px">
 
 Top Predictor of r/snowboard
 
 <img
-     src = "https://git.generalassemb.ly/tw1270/Submissions/blob/master/projects/project_3/images/r_snowboard_predictor.png" style = '' style="float: left; margin: 20px; height: 55px">
+     src = "https://github.com/tw1270/Web-APIs-and-Predicting-Subreddit/blob/main/images/r_snowboard_predictor.png" style = '' style="float: left; margin: 20px; height: 55px">
      
 Top Predictor of r/ski
 
 <img
-     src = "https://git.generalassemb.ly/tw1270/Submissions/blob/master/projects/project_3/images/r_ski_predictor.png" style = '' style="float: left; margin: 20px; height: 55px">
+     src = "https://github.com/tw1270/Web-APIs-and-Predicting-Subreddit/blob/main/images/r_ski_predictor.png" style = '' style="float: left; margin: 20px; height: 55px">
      
 ### Conclusion_and_Recommendations
 ---
